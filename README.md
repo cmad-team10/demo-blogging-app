@@ -1,2 +1,1 @@
 # demo-blogging-app
-Start
